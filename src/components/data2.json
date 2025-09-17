@@ -1,0 +1,66 @@
+[
+  {
+    "id": 9,
+    "brand": "adidas",
+    "title": "Cartoon Astronaut T-shirt",
+    "price": "$78",
+    "img": "src/assets/images/product_files/n1.jpg",
+    "description": "Soft cotton tee with a bold astronaut graphic. Regular fit and breathable for everyday wear."
+  },
+  {
+    "id": 10,
+    "brand": "Nike",
+    "title": "Sports Essential Hoodie",
+    "price": "$85",
+    "img": "src/assets/images/product_files/n2.jpg",
+    "description": "Midweight fleece hoodie with ribbed trims and a kangaroo pocket for cozy, all-day comfort."
+  },
+  {
+    "id": 11,
+    "brand": "Puma",
+    "title": "Casual Spring Collection",
+    "price": "$62",
+    "img": "src/assets/images/product_files/n3.jpg",
+    "description": "Lightweight tee for warmer days featuring soft stretch fabric and minimal branding."
+  },
+  {
+    "id": 12,
+    "brand": "Under Armour",
+    "title": "Modern Fit Tech Shirt",
+    "price": "$70",
+    "img": "src/assets/images/product_files/n4.jpg",
+    "description": "Moisture-wicking performance shirt with a modern athletic cut to keep you cool and dry."
+  },
+  {
+    "id": 13,
+    "brand": "Reebok",
+    "title": "Vintage Sports Tee",
+    "price": "$55",
+    "img": "src/assets/images/product_files/n5.jpg",
+    "description": "Retro-inspired graphic tee with a soft hand feel and relaxed fit for classic casual style."
+  },
+  {
+    "id": 14,
+    "brand": "New Balance",
+    "title": "Classic Comfort Shirt",
+    "price": "$68",
+    "img": "src/assets/images/product_files/n6.jpg",
+    "description": "Everyday essential with premium softness and a tailored-yet-relaxed silhouette."
+  },
+  {
+    "id": 15,
+    "brand": "Fila",
+    "title": "Urban Streetwear Edition",
+    "price": "$72",
+    "img": "src/assets/images/product_files/n7.jpg",
+    "description": "Street-ready tee with bold branding, smooth fabric, and a durable print for daily wear."
+  },
+  {
+    "id": 16,
+    "brand": "Converse",
+    "title": "Graphic Print Collection",
+    "price": "$59",
+    "img": "src/assets/images/product_files/n8.jpg",
+    "description": "Statement graphic tee with a minimalist cut; breathable and easy to style with denim or joggers."
+  }
+]
